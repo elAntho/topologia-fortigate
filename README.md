@@ -2,7 +2,7 @@
 **Institución:** Instituto Tecnológico de Las Américas (ITLA)  
 **Estudiante:** Anthony Moisés De Los Santos Capellán  
 **Matrícula:** 2025-1335  
-**Asignatura:** Seguridad Perimetral  
+**Asignatura:** Seguridad de Redes  
 **Entorno de Simulación:** Proxmox VE / PNETLab  
 
 ---
