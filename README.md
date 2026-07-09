@@ -2,7 +2,7 @@
 **Institución:** Instituto Tecnológico de Las Américas (ITLA)  
 **Estudiante:** Anthony Moisés De Los Santos Capellán  
 **Matrícula:** 2025-1335  
-**Asignatura:** Seguridad de Redes  
+**Asignatura:** Seguridad de Redes
 **Entorno de Simulación:** Proxmox VE / PNETLab  
 
 ---
@@ -25,6 +25,9 @@ La arquitectura busca garantizar el principio de **menor privilegio** y la **seg
 ---
 
 ## 🗺️ 2. Topología y Enrutamiento
+
+![Topología General de la Infraestructura en PNETLab](img/00_topologia_general.png)
+> **Diagrama de Red:** Topología implementada en Proxmox/PNETLab para la matrícula 2025-1335, mostrando la segmentación de la LAN de Usuarios (/25), LAN de Servidores DMZ (/28) y salida WAN.
 
 La red está segmentada en tres zonas de seguridad principales basadas en el direccionamiento IP derivado de la matrícula **2025-1335** (`10.13.35.0/24`), dividiendo el espacio de direcciones mediante VLSM (Variable Length Subnet Masking).
 
